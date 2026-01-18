@@ -35,7 +35,7 @@ This is useful for API integrations, dashboard queries, and frequently requested
 
 
 
-## Progress Note 3
+## Progress Note 4
 
-- 2026-01-07: documented service readiness, implementation progress, and release hygiene for cache-strategy-kit.
+- 2026-01-18: documented service readiness, implementation progress, and release hygiene for cache-strategy-kit.
 - Captured validation notes for observability, operational checks, and handoff readiness.
