@@ -1,0 +1,13 @@
+{
+  "name": "cache-strategy-kit",
+  "version": "1.0.0",
+  "description": "LRU and stale-while-revalidate caching utilities for Node.js services.",
+  "type": "module",
+  "scripts": {
+    "demo": "node src/demo.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
